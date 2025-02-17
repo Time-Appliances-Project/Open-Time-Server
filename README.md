@@ -7,7 +7,7 @@ The Open Time Server (OTS) is an Open, Scalable and Validated reference architec
 This spec can be accessed using http://www.opentimeserver.com
  
 
-![GitHub Logo](https://github.com/opencomputeproject/Time-Appliance-Project/blob/master/Time-Card/images/OCP%20logo.jpg?raw=true)
+![GitHub Logo](https://github.com/Time-Appliance-Project/blob/master/Time-Card/images/OCP%20logo.jpg?raw=true)
 
 ## Table of Contents
 1. [List of images](#List-of-images)
